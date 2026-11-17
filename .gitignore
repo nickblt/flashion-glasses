@@ -1,0 +1,9 @@
+# build output
+icp/build/
+firmware/build/
+
+# python
+__pycache__/
+
+# backups of your own chip (README.md, "Flashing"): keep them, but out of the repo
+stock-*
